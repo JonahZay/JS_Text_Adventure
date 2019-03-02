@@ -25,7 +25,7 @@ header {
     word-wrap: break-word;
 }
 
-input[type=text] {
+.dropdown-content {
     position: relative;
     display: block;
     margin: 0 auto;
@@ -36,7 +36,7 @@ input[type=submit] {
     height: 45px;
     width: 135px;
     font-family: monospace;
-    border: .2rem solid; 
+    border: .2rem solid;
     font-size: 1.5rem;
     position: absolute;
     top:85%;
